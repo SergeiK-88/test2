@@ -6,6 +6,6 @@ public class SKO {
         for (int i : arr) {
             summ += i;
         }
-        System.out.println(" " + summ / arr.length);
+        System.out.println("Среднее арифметическое чисел массива = " + summ / arr.length);
     }
 }
